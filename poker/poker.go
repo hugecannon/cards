@@ -1,7 +1,7 @@
 package poker
 
 import (
-	"github.com/hugecannon/cards/cards"
+	"github.com/hugecannon/cards"
 )
 
 func RoyalFlush(c cards.Cards) (ret cards.Cards) {

@@ -3,7 +3,7 @@ package poker
 import (
 	"testing"
 
-	"github.com/hugecannon/cards/cards"
+	"github.com/hugecannon/cards"
 )
 
 func TestRoyalFlush(t *testing.T) {
